@@ -15,6 +15,9 @@ var bourne = require('bourne');
 bourne.awesome(); // "awesome"
 ```
 
+
+------
+
 These are source files for the Tuts+ course: [Building NPM Packages][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
