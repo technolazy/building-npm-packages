@@ -1,6 +1,20 @@
-# bourne
+# [Building NPM Packages][published url]
+## Instructor: [Andrew Burgess][instructor url]
 
-A simple serverless database stored in a JSON file.
+In this course we're going to build a JavaScript library to publish via the Node Package Manager (NPM). As we go through the process of building the library, you'll learn all about good principles and best practices to follow when writing a JavaScript library. Ready to get started?
+
+
+
+These are source files for the Tuts+ course: [Building NPM Packages][published url]
+
+Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
+
+[published url]: https://code.tutsplus.com/courses/building-npm-packages
+[instructor url]: https://tutsplus.com/authors/andrew-burgess
+
+
+## Source Description
+This repository contains the implementation for "bourne" - a simple serverless database stored in a JSON file.
 
 ## Getting Started
 Install the module with: `npm install bourne`
@@ -9,19 +23,3 @@ Install the module with: `npm install bourne`
 var bourne = require('bourne');
 bourne.awesome(); // "awesome"
 ```
-
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
-
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
-
-## Release History
-_(Nothing yet)_
-
-## License
-Copyright (c) 2014 Andrew Burgess  
-Licensed under the MIT license.
